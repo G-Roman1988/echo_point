@@ -1,0 +1,380 @@
+-- Merging decision tree log ---
+application
+INJECTED from C:\echo_point\android\app\src\main\AndroidManifest.xml:2:5-32:19
+MERGED from [org.altbeacon:android-beacon-library:2.19] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\decd77a171f143c7227d8fb285b1f336\transformed\jetified-android-beacon-library-2.19\AndroidManifest.xml:19:5-59:19
+MERGED from [org.altbeacon:android-beacon-library:2.19] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\decd77a171f143c7227d8fb285b1f336\transformed\jetified-android-beacon-library-2.19\AndroidManifest.xml:19:5-59:19
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\25cee5f028ac2a6b79fd6278ff5b59e2\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\25cee5f028ac2a6b79fd6278ff5b59e2\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:24:5-31:19
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\5cc8db564d46f28c055925bb471009a5\transformed\material-1.3.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\5cc8db564d46f28c055925bb471009a5\transformed\material-1.3.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\21656ca58ebc2f5b695d36d1899076be\transformed\constraintlayout-2.0.1\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\21656ca58ebc2f5b695d36d1899076be\transformed\constraintlayout-2.0.1\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.6.0] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\7e9df2ac2213a6bd3cef0f2f27870d79\transformed\core-1.6.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.6.0] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\7e9df2ac2213a6bd3cef0f2f27870d79\transformed\core-1.6.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\47ecd4e588b99ef3b772f04d5aa6c9b7\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\47ecd4e588b99ef3b772f04d5aa6c9b7\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.6.0] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\7e9df2ac2213a6bd3cef0f2f27870d79\transformed\core-1.6.0\AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from C:\echo_point\android\app\src\main\AndroidManifest.xml:3:9-35
+	android:icon
+		ADDED from C:\echo_point\android\app\src\main\AndroidManifest.xml:5:9-43
+	android:name
+		INJECTED from C:\echo_point\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\echo_point\android\app\src\main\AndroidManifest.xml:4:9-42
+manifest
+ADDED from C:\echo_point\android\app\src\main\AndroidManifest.xml:1:1-33:12
+INJECTED from C:\echo_point\android\app\src\main\AndroidManifest.xml:1:1-33:12
+INJECTED from C:\echo_point\android\app\src\main\AndroidManifest.xml:1:1-33:12
+INJECTED from C:\echo_point\android\app\src\main\AndroidManifest.xml:1:1-33:12
+MERGED from [:reactive_ble_mobile] C:\echo_point\build\reactive_ble_mobile\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-17:12
+MERGED from [:flutter_beacon] C:\echo_point\build\flutter_beacon\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-9:12
+MERGED from [org.altbeacon:android-beacon-library:2.19] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\decd77a171f143c7227d8fb285b1f336\transformed\jetified-android-beacon-library-2.19\AndroidManifest.xml:2:1-61:12
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\ae81e06d24c799147c26814497a2a305\transformed\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\25cee5f028ac2a6b79fd6278ff5b59e2\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:17:1-33:12
+MERGED from [com.polidea.rxandroidble2:rxandroidble:1.16.0] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\d020ec1d5e468271c8d0e409aef084f4\transformed\jetified-rxandroidble-1.16.0\AndroidManifest.xml:2:1-27:12
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.1] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\e0c1ea4c6ca4fdd01c71913fb44463d9\transformed\jetified-rxandroid-2.1.1\AndroidManifest.xml:15:1-20:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\c92dc2c96d6d4f63417b6618f1c1bf1d\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.3.2] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\d8e4792ba4becbcf8532cf4f45b2f2d1\transformed\jetified-core-ktx-1.3.2\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\5cc8db564d46f28c055925bb471009a5\transformed\material-1.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\21656ca58ebc2f5b695d36d1899076be\transformed\constraintlayout-2.0.1\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\09a71f45a2f110948b735c42a8fac7af\transformed\appcompat-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\e049ddff91b1b01ee52b6e0ceef1dfeb\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\75f94412898c7559d34d7edbbeaeb394\transformed\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\d9fefd3231d7c549dee86f94a8a71d09\transformed\media-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\3e3509a6e29241205a87ee9fedabb59e\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\2e1a186f9c3c6c96598d409857a76a9c\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\569ce58d3dd49b227442bbb0d5f7ce08\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\83543b509ea72d197642ff197da2edd7\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\ff65482bd388a984f10ca7f5c3c41d0d\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\eb85f6cd47cafc1c47da2a37336a0e33\transformed\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\a4afa9096b82840215b23d4f1814b051\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\2c6be38e30f8cf1860a7d797db152b77\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\d071ef144612d1d729b2e1496f805d8b\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\00dbb69018761a8167f8d9d07423c2e1\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\1d2f11a7d5de7a531a69c65e1d8a2026\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\7452f5f3cbe2f9f7b119f33b5185d3c0\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\c17cf266156de71799199302788a6c34\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\d1e7acf1aa2051d3be77ae7ecbe61dff\transformed\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\cb1c3a5af7c82b5af321d06f2b3c2969\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\8cf10340b5c141cf7f9392e7078a9af8\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\411e2414b15f0c4ede14d2c515ddc895\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.6.0] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\7e9df2ac2213a6bd3cef0f2f27870d79\transformed\core-1.6.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\793c4fa41fed024d54f0246b25b34906\transformed\lifecycle-runtime-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\61969234c20435b339c4ea8c72dc0f22\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\7fcad9088319f1ebd7850d62df4bcaf7\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\c9c1416cfdc16237773b18cd0425609e\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\cda2a1ca4d3bd6aae60d8d586ec4f3ff\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\76f856ea98086720a3c1fffee80b523a\transformed\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\47ecd4e588b99ef3b772f04d5aa6c9b7\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\030cbe894f59f6068671c5a12b2190e8\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\52209f20efc31613e6a8da15f7614461\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\c24f99b8bdfeb14f29b2ef7a86a4db48\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\860a920bd188d8e467960610e541a595\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\9cc12674340416d986d3f85facb4cb0b\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\391dbc4c601d40f71df8c0bc4da55bcb\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\03b9b3b952540ee8cedf6c096276d934\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\6c0c163cc77ae6c91f9f7dfcd179c29c\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\echo_point\android\app\src\main\AndroidManifest.xml:1:1-33:12
+INJECTED from C:\echo_point\android\app\src\main\AndroidManifest.xml:1:1-33:12
+INJECTED from C:\echo_point\android\app\src\main\AndroidManifest.xml:1:1-33:12
+	package
+		INJECTED from C:\echo_point\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\echo_point\android\app\src\main\AndroidManifest.xml:1:1-33:12
+		INJECTED from C:\echo_point\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\echo_point\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\echo_point\android\app\src\main\AndroidManifest.xml:1:1-33:12
+		INJECTED from C:\echo_point\android\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\echo_point\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\echo_point\android\app\src\main\AndroidManifest.xml:1:1-33:12
+		INJECTED from C:\echo_point\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\echo_point\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-sdk
+INJECTED from C:\echo_point\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\echo_point\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\echo_point\android\app\src\main\AndroidManifest.xml
+MERGED from [:reactive_ble_mobile] C:\echo_point\build\reactive_ble_mobile\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:reactive_ble_mobile] C:\echo_point\build\reactive_ble_mobile\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:flutter_beacon] C:\echo_point\build\flutter_beacon\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:flutter_beacon] C:\echo_point\build\flutter_beacon\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [org.altbeacon:android-beacon-library:2.19] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\decd77a171f143c7227d8fb285b1f336\transformed\jetified-android-beacon-library-2.19\AndroidManifest.xml:6:5-8:41
+MERGED from [org.altbeacon:android-beacon-library:2.19] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\decd77a171f143c7227d8fb285b1f336\transformed\jetified-android-beacon-library-2.19\AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\ae81e06d24c799147c26814497a2a305\transformed\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\ae81e06d24c799147c26814497a2a305\transformed\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\25cee5f028ac2a6b79fd6278ff5b59e2\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\25cee5f028ac2a6b79fd6278ff5b59e2\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:20:5-22:41
+MERGED from [com.polidea.rxandroidble2:rxandroidble:1.16.0] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\d020ec1d5e468271c8d0e409aef084f4\transformed\jetified-rxandroidble-1.16.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.polidea.rxandroidble2:rxandroidble:1.16.0] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\d020ec1d5e468271c8d0e409aef084f4\transformed\jetified-rxandroidble-1.16.0\AndroidManifest.xml:6:5-8:41
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.1] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\e0c1ea4c6ca4fdd01c71913fb44463d9\transformed\jetified-rxandroid-2.1.1\AndroidManifest.xml:18:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.1] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\e0c1ea4c6ca4fdd01c71913fb44463d9\transformed\jetified-rxandroid-2.1.1\AndroidManifest.xml:18:5-43
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\c92dc2c96d6d4f63417b6618f1c1bf1d\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\c92dc2c96d6d4f63417b6618f1c1bf1d\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.3.2] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\d8e4792ba4becbcf8532cf4f45b2f2d1\transformed\jetified-core-ktx-1.3.2\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.3.2] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\d8e4792ba4becbcf8532cf4f45b2f2d1\transformed\jetified-core-ktx-1.3.2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\5cc8db564d46f28c055925bb471009a5\transformed\material-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\5cc8db564d46f28c055925bb471009a5\transformed\material-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\21656ca58ebc2f5b695d36d1899076be\transformed\constraintlayout-2.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\21656ca58ebc2f5b695d36d1899076be\transformed\constraintlayout-2.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\09a71f45a2f110948b735c42a8fac7af\transformed\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\09a71f45a2f110948b735c42a8fac7af\transformed\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\e049ddff91b1b01ee52b6e0ceef1dfeb\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\e049ddff91b1b01ee52b6e0ceef1dfeb\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\75f94412898c7559d34d7edbbeaeb394\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\75f94412898c7559d34d7edbbeaeb394\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.0.0] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\d9fefd3231d7c549dee86f94a8a71d09\transformed\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\d9fefd3231d7c549dee86f94a8a71d09\transformed\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\3e3509a6e29241205a87ee9fedabb59e\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\3e3509a6e29241205a87ee9fedabb59e\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\2e1a186f9c3c6c96598d409857a76a9c\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\2e1a186f9c3c6c96598d409857a76a9c\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\569ce58d3dd49b227442bbb0d5f7ce08\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\569ce58d3dd49b227442bbb0d5f7ce08\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\83543b509ea72d197642ff197da2edd7\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\83543b509ea72d197642ff197da2edd7\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\ff65482bd388a984f10ca7f5c3c41d0d\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\ff65482bd388a984f10ca7f5c3c41d0d\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\eb85f6cd47cafc1c47da2a37336a0e33\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\eb85f6cd47cafc1c47da2a37336a0e33\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\a4afa9096b82840215b23d4f1814b051\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\a4afa9096b82840215b23d4f1814b051\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\2c6be38e30f8cf1860a7d797db152b77\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\2c6be38e30f8cf1860a7d797db152b77\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\d071ef144612d1d729b2e1496f805d8b\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\d071ef144612d1d729b2e1496f805d8b\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\00dbb69018761a8167f8d9d07423c2e1\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\00dbb69018761a8167f8d9d07423c2e1\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\1d2f11a7d5de7a531a69c65e1d8a2026\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\1d2f11a7d5de7a531a69c65e1d8a2026\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\7452f5f3cbe2f9f7b119f33b5185d3c0\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\7452f5f3cbe2f9f7b119f33b5185d3c0\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\c17cf266156de71799199302788a6c34\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\c17cf266156de71799199302788a6c34\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\d1e7acf1aa2051d3be77ae7ecbe61dff\transformed\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\d1e7acf1aa2051d3be77ae7ecbe61dff\transformed\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\cb1c3a5af7c82b5af321d06f2b3c2969\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\cb1c3a5af7c82b5af321d06f2b3c2969\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\8cf10340b5c141cf7f9392e7078a9af8\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\8cf10340b5c141cf7f9392e7078a9af8\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\411e2414b15f0c4ede14d2c515ddc895\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\411e2414b15f0c4ede14d2c515ddc895\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.6.0] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\7e9df2ac2213a6bd3cef0f2f27870d79\transformed\core-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.6.0] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\7e9df2ac2213a6bd3cef0f2f27870d79\transformed\core-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\793c4fa41fed024d54f0246b25b34906\transformed\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\793c4fa41fed024d54f0246b25b34906\transformed\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\61969234c20435b339c4ea8c72dc0f22\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\61969234c20435b339c4ea8c72dc0f22\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\7fcad9088319f1ebd7850d62df4bcaf7\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\7fcad9088319f1ebd7850d62df4bcaf7\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\c9c1416cfdc16237773b18cd0425609e\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\c9c1416cfdc16237773b18cd0425609e\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\cda2a1ca4d3bd6aae60d8d586ec4f3ff\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\cda2a1ca4d3bd6aae60d8d586ec4f3ff\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\76f856ea98086720a3c1fffee80b523a\transformed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\76f856ea98086720a3c1fffee80b523a\transformed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\47ecd4e588b99ef3b772f04d5aa6c9b7\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\47ecd4e588b99ef3b772f04d5aa6c9b7\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\030cbe894f59f6068671c5a12b2190e8\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\030cbe894f59f6068671c5a12b2190e8\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\52209f20efc31613e6a8da15f7614461\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\52209f20efc31613e6a8da15f7614461\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\c24f99b8bdfeb14f29b2ef7a86a4db48\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\c24f99b8bdfeb14f29b2ef7a86a4db48\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\860a920bd188d8e467960610e541a595\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\860a920bd188d8e467960610e541a595\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\9cc12674340416d986d3f85facb4cb0b\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\9cc12674340416d986d3f85facb4cb0b\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\391dbc4c601d40f71df8c0bc4da55bcb\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\391dbc4c601d40f71df8c0bc4da55bcb\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\03b9b3b952540ee8cedf6c096276d934\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\03b9b3b952540ee8cedf6c096276d934\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\6c0c163cc77ae6c91f9f7dfcd179c29c\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\6c0c163cc77ae6c91f9f7dfcd179c29c\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\echo_point\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\echo_point\android\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\echo_point\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\echo_point\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\echo_point\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\echo_point\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\echo_point\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\echo_point\android\app\src\main\AndroidManifest.xml
+activity#com.gtdvm.echo_point.MainActivity
+ADDED from C:\echo_point\android\app\src\main\AndroidManifest.xml:6:9-26:20
+	android:launchMode
+		ADDED from C:\echo_point\android\app\src\main\AndroidManifest.xml:9:13-43
+	android:hardwareAccelerated
+		ADDED from C:\echo_point\android\app\src\main\AndroidManifest.xml:12:13-47
+	android:windowSoftInputMode
+		ADDED from C:\echo_point\android\app\src\main\AndroidManifest.xml:13:13-55
+	android:exported
+		ADDED from C:\echo_point\android\app\src\main\AndroidManifest.xml:8:13-36
+	android:configChanges
+		ADDED from C:\echo_point\android\app\src\main\AndroidManifest.xml:11:13-163
+	android:theme
+		ADDED from C:\echo_point\android\app\src\main\AndroidManifest.xml:10:13-47
+	android:name
+		ADDED from C:\echo_point\android\app\src\main\AndroidManifest.xml:7:13-41
+meta-data#io.flutter.embedding.android.NormalTheme
+ADDED from C:\echo_point\android\app\src\main\AndroidManifest.xml:18:13-21:17
+	android:resource
+		ADDED from C:\echo_point\android\app\src\main\AndroidManifest.xml:20:15-52
+	android:name
+		ADDED from C:\echo_point\android\app\src\main\AndroidManifest.xml:19:15-70
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\echo_point\android\app\src\main\AndroidManifest.xml:22:13-25:29
+action#android.intent.action.MAIN
+ADDED from C:\echo_point\android\app\src\main\AndroidManifest.xml:23:17-68
+	android:name
+		ADDED from C:\echo_point\android\app\src\main\AndroidManifest.xml:23:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\echo_point\android\app\src\main\AndroidManifest.xml:24:17-76
+	android:name
+		ADDED from C:\echo_point\android\app\src\main\AndroidManifest.xml:24:27-74
+meta-data#flutterEmbedding
+ADDED from C:\echo_point\android\app\src\main\AndroidManifest.xml:29:9-31:33
+	android:value
+		ADDED from C:\echo_point\android\app\src\main\AndroidManifest.xml:31:13-30
+	android:name
+		ADDED from C:\echo_point\android\app\src\main\AndroidManifest.xml:30:13-44
+uses-permission#android.permission.BLUETOOTH
+ADDED from [:reactive_ble_mobile] C:\echo_point\build\reactive_ble_mobile\intermediates\merged_manifest\release\AndroidManifest.xml:10:5-12:38
+MERGED from [org.altbeacon:android-beacon-library:2.19] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\decd77a171f143c7227d8fb285b1f336\transformed\jetified-android-beacon-library-2.19\AndroidManifest.xml:10:5-12:36
+MERGED from [org.altbeacon:android-beacon-library:2.19] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\decd77a171f143c7227d8fb285b1f336\transformed\jetified-android-beacon-library-2.19\AndroidManifest.xml:10:5-12:36
+MERGED from [com.polidea.rxandroidble2:rxandroidble:1.16.0] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\d020ec1d5e468271c8d0e409aef084f4\transformed\jetified-rxandroidble-1.16.0\AndroidManifest.xml:10:5-12:38
+MERGED from [com.polidea.rxandroidble2:rxandroidble:1.16.0] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\d020ec1d5e468271c8d0e409aef084f4\transformed\jetified-rxandroidble-1.16.0\AndroidManifest.xml:10:5-12:38
+	android:maxSdkVersion
+		ADDED from [:reactive_ble_mobile] C:\echo_point\build\reactive_ble_mobile\intermediates\merged_manifest\release\AndroidManifest.xml:12:9-35
+	android:required
+		ADDED from [org.altbeacon:android-beacon-library:2.19] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\decd77a171f143c7227d8fb285b1f336\transformed\jetified-android-beacon-library-2.19\AndroidManifest.xml:12:9-33
+	android:name
+		ADDED from [:reactive_ble_mobile] C:\echo_point\build\reactive_ble_mobile\intermediates\merged_manifest\release\AndroidManifest.xml:11:9-52
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from [:reactive_ble_mobile] C:\echo_point\build\reactive_ble_mobile\intermediates\merged_manifest\release\AndroidManifest.xml:13:5-15:38
+MERGED from [org.altbeacon:android-beacon-library:2.19] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\decd77a171f143c7227d8fb285b1f336\transformed\jetified-android-beacon-library-2.19\AndroidManifest.xml:13:5-15:36
+MERGED from [org.altbeacon:android-beacon-library:2.19] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\decd77a171f143c7227d8fb285b1f336\transformed\jetified-android-beacon-library-2.19\AndroidManifest.xml:13:5-15:36
+MERGED from [com.polidea.rxandroidble2:rxandroidble:1.16.0] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\d020ec1d5e468271c8d0e409aef084f4\transformed\jetified-rxandroidble-1.16.0\AndroidManifest.xml:13:5-15:38
+MERGED from [com.polidea.rxandroidble2:rxandroidble:1.16.0] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\d020ec1d5e468271c8d0e409aef084f4\transformed\jetified-rxandroidble-1.16.0\AndroidManifest.xml:13:5-15:38
+	android:maxSdkVersion
+		ADDED from [:reactive_ble_mobile] C:\echo_point\build\reactive_ble_mobile\intermediates\merged_manifest\release\AndroidManifest.xml:15:9-35
+	android:required
+		ADDED from [org.altbeacon:android-beacon-library:2.19] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\decd77a171f143c7227d8fb285b1f336\transformed\jetified-android-beacon-library-2.19\AndroidManifest.xml:15:9-33
+	android:name
+		ADDED from [:reactive_ble_mobile] C:\echo_point\build\reactive_ble_mobile\intermediates\merged_manifest\release\AndroidManifest.xml:14:9-58
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from [org.altbeacon:android-beacon-library:2.19] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\decd77a171f143c7227d8fb285b1f336\transformed\jetified-android-beacon-library-2.19\AndroidManifest.xml:16:5-81
+	android:name
+		ADDED from [org.altbeacon:android-beacon-library:2.19] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\decd77a171f143c7227d8fb285b1f336\transformed\jetified-android-beacon-library-2.19\AndroidManifest.xml:16:22-78
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from [org.altbeacon:android-beacon-library:2.19] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\decd77a171f143c7227d8fb285b1f336\transformed\jetified-android-beacon-library-2.19\AndroidManifest.xml:17:5-81
+	android:name
+		ADDED from [org.altbeacon:android-beacon-library:2.19] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\decd77a171f143c7227d8fb285b1f336\transformed\jetified-android-beacon-library-2.19\AndroidManifest.xml:17:22-78
+receiver#org.altbeacon.beacon.startup.StartupBroadcastReceiver
+ADDED from [org.altbeacon:android-beacon-library:2.19] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\decd77a171f143c7227d8fb285b1f336\transformed\jetified-android-beacon-library-2.19\AndroidManifest.xml:20:9-28:20
+	android:exported
+		ADDED from [org.altbeacon:android-beacon-library:2.19] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\decd77a171f143c7227d8fb285b1f336\transformed\jetified-android-beacon-library-2.19\AndroidManifest.xml:22:13-37
+	android:name
+		ADDED from [org.altbeacon:android-beacon-library:2.19] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\decd77a171f143c7227d8fb285b1f336\transformed\jetified-android-beacon-library-2.19\AndroidManifest.xml:21:13-81
+intent-filter#action:name:android.intent.action.ACTION_POWER_CONNECTED+action:name:android.intent.action.ACTION_POWER_DISCONNECTED+action:name:android.intent.action.BOOT_COMPLETED
+ADDED from [org.altbeacon:android-beacon-library:2.19] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\decd77a171f143c7227d8fb285b1f336\transformed\jetified-android-beacon-library-2.19\AndroidManifest.xml:23:13-27:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from [org.altbeacon:android-beacon-library:2.19] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\decd77a171f143c7227d8fb285b1f336\transformed\jetified-android-beacon-library-2.19\AndroidManifest.xml:24:17-79
+	android:name
+		ADDED from [org.altbeacon:android-beacon-library:2.19] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\decd77a171f143c7227d8fb285b1f336\transformed\jetified-android-beacon-library-2.19\AndroidManifest.xml:24:25-76
+action#android.intent.action.ACTION_POWER_CONNECTED
+ADDED from [org.altbeacon:android-beacon-library:2.19] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\decd77a171f143c7227d8fb285b1f336\transformed\jetified-android-beacon-library-2.19\AndroidManifest.xml:25:17-87
+	android:name
+		ADDED from [org.altbeacon:android-beacon-library:2.19] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\decd77a171f143c7227d8fb285b1f336\transformed\jetified-android-beacon-library-2.19\AndroidManifest.xml:25:25-84
+action#android.intent.action.ACTION_POWER_DISCONNECTED
+ADDED from [org.altbeacon:android-beacon-library:2.19] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\decd77a171f143c7227d8fb285b1f336\transformed\jetified-android-beacon-library-2.19\AndroidManifest.xml:26:17-90
+	android:name
+		ADDED from [org.altbeacon:android-beacon-library:2.19] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\decd77a171f143c7227d8fb285b1f336\transformed\jetified-android-beacon-library-2.19\AndroidManifest.xml:26:25-87
+service#org.altbeacon.beacon.service.BeaconService
+ADDED from [org.altbeacon:android-beacon-library:2.19] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\decd77a171f143c7227d8fb285b1f336\transformed\jetified-android-beacon-library-2.19\AndroidManifest.xml:30:9-35:38
+	android:enabled
+		ADDED from [org.altbeacon:android-beacon-library:2.19] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\decd77a171f143c7227d8fb285b1f336\transformed\jetified-android-beacon-library-2.19\AndroidManifest.xml:32:13-35
+	android:label
+		ADDED from [org.altbeacon:android-beacon-library:2.19] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\decd77a171f143c7227d8fb285b1f336\transformed\jetified-android-beacon-library-2.19\AndroidManifest.xml:35:13-35
+	android:exported
+		ADDED from [org.altbeacon:android-beacon-library:2.19] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\decd77a171f143c7227d8fb285b1f336\transformed\jetified-android-beacon-library-2.19\AndroidManifest.xml:33:13-37
+	android:isolatedProcess
+		ADDED from [org.altbeacon:android-beacon-library:2.19] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\decd77a171f143c7227d8fb285b1f336\transformed\jetified-android-beacon-library-2.19\AndroidManifest.xml:34:13-44
+	android:name
+		ADDED from [org.altbeacon:android-beacon-library:2.19] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\decd77a171f143c7227d8fb285b1f336\transformed\jetified-android-beacon-library-2.19\AndroidManifest.xml:31:13-70
+service#org.altbeacon.beacon.BeaconIntentProcessor
+ADDED from [org.altbeacon:android-beacon-library:2.19] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\decd77a171f143c7227d8fb285b1f336\transformed\jetified-android-beacon-library-2.19\AndroidManifest.xml:36:9-39:40
+	android:enabled
+		ADDED from [org.altbeacon:android-beacon-library:2.19] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\decd77a171f143c7227d8fb285b1f336\transformed\jetified-android-beacon-library-2.19\AndroidManifest.xml:38:13-35
+	android:exported
+		ADDED from [org.altbeacon:android-beacon-library:2.19] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\decd77a171f143c7227d8fb285b1f336\transformed\jetified-android-beacon-library-2.19\AndroidManifest.xml:39:13-37
+	android:name
+		ADDED from [org.altbeacon:android-beacon-library:2.19] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\decd77a171f143c7227d8fb285b1f336\transformed\jetified-android-beacon-library-2.19\AndroidManifest.xml:37:13-70
+service#org.altbeacon.beacon.service.ScanJob
+ADDED from [org.altbeacon:android-beacon-library:2.19] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\decd77a171f143c7227d8fb285b1f336\transformed\jetified-android-beacon-library-2.19\AndroidManifest.xml:40:9-50:19
+	android:exported
+		ADDED from [org.altbeacon:android-beacon-library:2.19] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\decd77a171f143c7227d8fb285b1f336\transformed\jetified-android-beacon-library-2.19\AndroidManifest.xml:42:13-37
+	android:permission
+		ADDED from [org.altbeacon:android-beacon-library:2.19] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\decd77a171f143c7227d8fb285b1f336\transformed\jetified-android-beacon-library-2.19\AndroidManifest.xml:43:13-69
+	android:name
+		ADDED from [org.altbeacon:android-beacon-library:2.19] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\decd77a171f143c7227d8fb285b1f336\transformed\jetified-android-beacon-library-2.19\AndroidManifest.xml:41:13-64
+meta-data#immediateScanJobId
+ADDED from [org.altbeacon:android-beacon-library:2.19] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\decd77a171f143c7227d8fb285b1f336\transformed\jetified-android-beacon-library-2.19\AndroidManifest.xml:44:13-46:45
+	android:value
+		ADDED from [org.altbeacon:android-beacon-library:2.19] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\decd77a171f143c7227d8fb285b1f336\transformed\jetified-android-beacon-library-2.19\AndroidManifest.xml:46:17-42
+	android:name
+		ADDED from [org.altbeacon:android-beacon-library:2.19] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\decd77a171f143c7227d8fb285b1f336\transformed\jetified-android-beacon-library-2.19\AndroidManifest.xml:45:17-50
+meta-data#periodicScanJobId
+ADDED from [org.altbeacon:android-beacon-library:2.19] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\decd77a171f143c7227d8fb285b1f336\transformed\jetified-android-beacon-library-2.19\AndroidManifest.xml:47:13-49:45
+	android:value
+		ADDED from [org.altbeacon:android-beacon-library:2.19] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\decd77a171f143c7227d8fb285b1f336\transformed\jetified-android-beacon-library-2.19\AndroidManifest.xml:49:17-42
+	android:name
+		ADDED from [org.altbeacon:android-beacon-library:2.19] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\decd77a171f143c7227d8fb285b1f336\transformed\jetified-android-beacon-library-2.19\AndroidManifest.xml:48:17-49
+service#org.altbeacon.bluetooth.BluetoothTestJob
+ADDED from [org.altbeacon:android-beacon-library:2.19] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\decd77a171f143c7227d8fb285b1f336\transformed\jetified-android-beacon-library-2.19\AndroidManifest.xml:51:9-58:19
+	android:exported
+		ADDED from [org.altbeacon:android-beacon-library:2.19] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\decd77a171f143c7227d8fb285b1f336\transformed\jetified-android-beacon-library-2.19\AndroidManifest.xml:53:13-37
+	android:permission
+		ADDED from [org.altbeacon:android-beacon-library:2.19] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\decd77a171f143c7227d8fb285b1f336\transformed\jetified-android-beacon-library-2.19\AndroidManifest.xml:54:13-69
+	android:name
+		ADDED from [org.altbeacon:android-beacon-library:2.19] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\decd77a171f143c7227d8fb285b1f336\transformed\jetified-android-beacon-library-2.19\AndroidManifest.xml:52:13-68
+meta-data#jobId
+ADDED from [org.altbeacon:android-beacon-library:2.19] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\decd77a171f143c7227d8fb285b1f336\transformed\jetified-android-beacon-library-2.19\AndroidManifest.xml:55:13-57:46
+	android:value
+		ADDED from [org.altbeacon:android-beacon-library:2.19] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\decd77a171f143c7227d8fb285b1f336\transformed\jetified-android-beacon-library-2.19\AndroidManifest.xml:57:17-43
+	android:name
+		ADDED from [org.altbeacon:android-beacon-library:2.19] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\decd77a171f143c7227d8fb285b1f336\transformed\jetified-android-beacon-library-2.19\AndroidManifest.xml:56:17-37
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\25cee5f028ac2a6b79fd6278ff5b59e2\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\25cee5f028ac2a6b79fd6278ff5b59e2\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\25cee5f028ac2a6b79fd6278ff5b59e2\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\25cee5f028ac2a6b79fd6278ff5b59e2\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\25cee5f028ac2a6b79fd6278ff5b59e2\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\25cee5f028ac2a6b79fd6278ff5b59e2\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:29:13-51
+uses-permission-sdk-23#android.permission.ACCESS_COARSE_LOCATION
+ADDED from [com.polidea.rxandroidble2:rxandroidble:1.16.0] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\d020ec1d5e468271c8d0e409aef084f4\transformed\jetified-rxandroidble-1.16.0\AndroidManifest.xml:18:5-88
+	android:name
+		ADDED from [com.polidea.rxandroidble2:rxandroidble:1.16.0] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\d020ec1d5e468271c8d0e409aef084f4\transformed\jetified-rxandroidble-1.16.0\AndroidManifest.xml:18:29-85
+uses-permission-sdk-23#android.permission.ACCESS_FINE_LOCATION
+ADDED from [com.polidea.rxandroidble2:rxandroidble:1.16.0] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\d020ec1d5e468271c8d0e409aef084f4\transformed\jetified-rxandroidble-1.16.0\AndroidManifest.xml:19:5-86
+	android:name
+		ADDED from [com.polidea.rxandroidble2:rxandroidble:1.16.0] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\d020ec1d5e468271c8d0e409aef084f4\transformed\jetified-rxandroidble-1.16.0\AndroidManifest.xml:19:29-83
+uses-permission#android.permission.BLUETOOTH_CONNECT
+ADDED from [com.polidea.rxandroidble2:rxandroidble:1.16.0] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\d020ec1d5e468271c8d0e409aef084f4\transformed\jetified-rxandroidble-1.16.0\AndroidManifest.xml:21:5-76
+	android:name
+		ADDED from [com.polidea.rxandroidble2:rxandroidble:1.16.0] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\d020ec1d5e468271c8d0e409aef084f4\transformed\jetified-rxandroidble-1.16.0\AndroidManifest.xml:21:22-73
+uses-permission#android.permission.BLUETOOTH_SCAN
+ADDED from [com.polidea.rxandroidble2:rxandroidble:1.16.0] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\d020ec1d5e468271c8d0e409aef084f4\transformed\jetified-rxandroidble-1.16.0\AndroidManifest.xml:22:5-25:31
+	android:usesPermissionFlags
+		ADDED from [com.polidea.rxandroidble2:rxandroidble:1.16.0] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\d020ec1d5e468271c8d0e409aef084f4\transformed\jetified-rxandroidble-1.16.0\AndroidManifest.xml:24:9-55
+	tools:targetApi
+		ADDED from [com.polidea.rxandroidble2:rxandroidble:1.16.0] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\d020ec1d5e468271c8d0e409aef084f4\transformed\jetified-rxandroidble-1.16.0\AndroidManifest.xml:25:9-28
+	android:name
+		ADDED from [com.polidea.rxandroidble2:rxandroidble:1.16.0] C:\Users\Roman-Feodor\.gradle\caches\transforms-3\d020ec1d5e468271c8d0e409aef084f4\transformed\jetified-rxandroidble-1.16.0\AndroidManifest.xml:23:9-57

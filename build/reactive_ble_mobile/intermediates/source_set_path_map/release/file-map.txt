@@ -1,0 +1,12 @@
+com.signify.hue.flutterreactiveble.reactive_ble_mobile-jetified-window-1.0.0-beta04-0 C:\Users\Roman-Feodor\.gradle\caches\transforms-3\25cee5f028ac2a6b79fd6278ff5b59e2\transformed\jetified-window-1.0.0-beta04\res
+com.signify.hue.flutterreactiveble.reactive_ble_mobile-jetified-annotation-experimental-1.1.0-1 C:\Users\Roman-Feodor\.gradle\caches\transforms-3\6c0c163cc77ae6c91f9f7dfcd179c29c\transformed\jetified-annotation-experimental-1.1.0\res
+com.signify.hue.flutterreactiveble.reactive_ble_mobile-core-1.6.0-2 C:\Users\Roman-Feodor\.gradle\caches\transforms-3\7e9df2ac2213a6bd3cef0f2f27870d79\transformed\core-1.6.0\res
+com.signify.hue.flutterreactiveble.reactive_ble_mobile-jetified-window-java-1.0.0-beta04-3 C:\Users\Roman-Feodor\.gradle\caches\transforms-3\ae81e06d24c799147c26814497a2a305\transformed\jetified-window-java-1.0.0-beta04\res
+com.signify.hue.flutterreactiveble.reactive_ble_mobile-main-4 C:\Users\Roman-Feodor\AppData\Local\Pub\Cache\hosted\pub.dev\reactive_ble_mobile-5.0.3\android\src\main\res
+com.signify.hue.flutterreactiveble.reactive_ble_mobile-release-5 C:\Users\Roman-Feodor\AppData\Local\Pub\Cache\hosted\pub.dev\reactive_ble_mobile-5.0.3\android\src\release\res
+com.signify.hue.flutterreactiveble.reactive_ble_mobile-pngs-6 C:\echo_point\build\reactive_ble_mobile\generated\res\pngs\release
+com.signify.hue.flutterreactiveble.reactive_ble_mobile-resValues-7 C:\echo_point\build\reactive_ble_mobile\generated\res\resValues\release
+com.signify.hue.flutterreactiveble.reactive_ble_mobile-rs-8 C:\echo_point\build\reactive_ble_mobile\generated\res\rs\release
+com.signify.hue.flutterreactiveble.reactive_ble_mobile-mergeReleaseResources-9 C:\echo_point\build\reactive_ble_mobile\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.signify.hue.flutterreactiveble.reactive_ble_mobile-mergeReleaseResources-10 C:\echo_point\build\reactive_ble_mobile\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.signify.hue.flutterreactiveble.reactive_ble_mobile-merged_res-11 C:\echo_point\build\reactive_ble_mobile\intermediates\merged_res\release

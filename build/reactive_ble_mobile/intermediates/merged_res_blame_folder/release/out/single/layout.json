@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.signify.hue.flutterreactiveble.reactive_ble_mobile-merged_res-10:/layout/notification_template_part_time.xml",
+        "source": "com.signify.hue.flutterreactiveble.reactive_ble_mobile-core-1.6.0-2:/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "com.signify.hue.flutterreactiveble.reactive_ble_mobile-merged_res-10:/layout/notification_template_part_chronometer.xml",
+        "source": "com.signify.hue.flutterreactiveble.reactive_ble_mobile-core-1.6.0-2:/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "com.signify.hue.flutterreactiveble.reactive_ble_mobile-merged_res-10:/layout/custom_dialog.xml",
+        "source": "com.signify.hue.flutterreactiveble.reactive_ble_mobile-core-1.6.0-2:/layout/custom_dialog.xml"
+    }
+]

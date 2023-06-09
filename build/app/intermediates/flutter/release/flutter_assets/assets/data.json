@@ -1,0 +1,41 @@
+{
+  "Categories": [
+    {
+      "name": "Toate categoriile",
+      "major": "0",
+      "numbers": "0"
+    },
+    {
+      "name": "Trolebuz",
+      "major": "1",
+      "numbers": [
+        {"number": "1", "minor": "01"},
+        {"number": "2", "minor": "02"},
+        {"number": "3", "minor": "03"},
+        {"number": "4", "minor": "04"},
+        {"number": "5", "minor": "05"},
+        {"number": "6", "minor": "06"},
+        {"number": "7", "minor": "07"},
+        {"number": "8", "minor": "08"},
+        {"number": "9", "minor": "09"},
+        {"number": "10", "minor": "10"}
+      ]
+    },
+    {
+      "name": "Autobuz",
+      "major": "02",
+      "numbers": [
+        {"number": "1", "minor": "01"},
+        {"number": "2", "minor": "02"},
+        {"number": "3", "minor": "03"},
+        {"number": "4", "minor": "04"},
+        {"number": "5", "minor": "05"},
+        {"number": "6", "minor": "06"},
+        {"number": "7", "minor": "07"},
+        {"number": "8", "minor": "08"},
+        {"number": "9", "minor": "09"},
+        {"number": "10", "minor": "10"}
+      ]
+    }
+  ]
+}

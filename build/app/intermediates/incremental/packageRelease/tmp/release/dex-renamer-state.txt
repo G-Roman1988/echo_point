@@ -1,0 +1,4 @@
+#Thu Jun 08 15:53:32 EEST 2023
+base.0=C\:\\echo_point\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
